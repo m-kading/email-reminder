@@ -1,0 +1,8 @@
+[
+    {
+        "subject": "<reminder_subject>",
+        "frequency": "<reminder_frequency>",
+        "start_date": "<first_occurrence>",
+        "message": "<email_message>"
+    }
+]

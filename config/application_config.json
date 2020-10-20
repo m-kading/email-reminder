@@ -1,0 +1,17 @@
+{
+    "smtpConfig": {
+        "smtpHost": "<smtp_host>",
+        "smtpPort": "smtp_port",
+        "useTls": true
+    },
+    "recipients": [
+        {
+            "name": "<recipient_name>",
+            "email": "<recipient_email_address>"
+        },
+        {
+            "name": "<recipient_name_2>",
+            "email": "<recipient_email_address_2>"
+        }
+    ]
+}
